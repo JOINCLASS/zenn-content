@@ -3,7 +3,7 @@ title: "営業パイプライン管理の基本 — Excelを卒業して商談�
 emoji: "📊"
 type: "idea"
 topics: ["営業", "パイプライン", "SaaS", "CRM", "自動化"]
-published: true
+published: false
 published_at: 2026-02-22 08:30
 ---
 

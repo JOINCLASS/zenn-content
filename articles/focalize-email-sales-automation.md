@@ -3,7 +3,7 @@ title: "メール転送だけで商談管理が完了する時代 — AI営業�
 emoji: "📩"
 type: "idea"
 topics: ["営業効率化", "SaaS", "AI", "自動化", "CRM"]
-published: true
+published: false
 ---
 
 ## はじめに：営業事務に追われていませんか？

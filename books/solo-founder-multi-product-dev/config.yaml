@@ -1,0 +1,19 @@
+title: "ひとり法人で5プロダクトを同時運用する技術戦略"
+summary: "Next.js×Flutterで5つのSaaS/アプリを1人で開発・運用する合同会社ジョインクラスの実践記録。技術選定、アーキテクチャ設計、CI/CD、セキュリティ認証(CASA Tier 2)、コスト管理、シニア向けUXまで、マルチプロダクト運用のリアルなノウハウを体系的にまとめました。"
+topics: ["個人開発", "Next.js", "Flutter", "技術戦略", "スタートアップ"]
+published: true
+price: 2000
+toc_depth: 2
+chapters:
+  - introduction
+  - product-portfolio
+  - tech-selection
+  - architecture-overview
+  - backend-strategy
+  - deploy-cicd
+  - security-casa
+  - senior-ux-flutter
+  - cost-management
+  - time-management
+  - failures-and-lessons
+  - conclusion

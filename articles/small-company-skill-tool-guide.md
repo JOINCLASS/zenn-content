@@ -3,7 +3,7 @@ title: "SmartHR・カオナビ不要？小規模企業向けスキル管理ツ�
 emoji: "🔍"
 type: "idea"
 topics: ["スキル管理", "HRTech", "人事DX", "スタートアップ", "組織開発"]
-published: true
+published: false
 ---
 
 ## はじめに: 「良さそうだけど、うちには高すぎる」問題

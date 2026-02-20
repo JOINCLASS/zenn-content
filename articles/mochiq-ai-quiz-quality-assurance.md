@@ -3,7 +3,7 @@ title: "AIが生成するクイズの品質をどう担保するか — EdTech�
 emoji: "✅"
 type: "tech"
 topics: ["AI", "品質保証", "EdTech", "LLM", "テスト"]
-published: true
+published: false
 published_at: 2026-03-06 08:30
 ---
 

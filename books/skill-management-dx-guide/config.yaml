@@ -1,0 +1,15 @@
+title: "スキル管理DXの始め方 — エクセル卒業から組織力の可視化まで"
+summary: "「またスキルシートの更新依頼か...」エクセルベースのスキル管理に限界を感じている人事・マネジメント層に向けて、スキル管理のデジタル化を段階的に進めるための実践ガイドです。SmartHRやカオナビとの比較、スキルマップの設計方法、プロジェクトアサインへの活用まで、50名超の組織で必要になるスキル管理の全体像を解説します。"
+topics: ["スキル管理", "人事DX", "HRTech", "組織開発", "エンジニア組織"]
+published: true
+price: 1000
+toc_depth: 2
+chapters:
+  - introduction
+  - excel-traps
+  - skill-map-design
+  - project-assignment
+  - tool-selection
+  - implementation-steps
+  - evaluation-criteria
+  - conclusion

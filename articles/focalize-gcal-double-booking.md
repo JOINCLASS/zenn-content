@@ -3,7 +3,7 @@ title: "Google Calendar連携で商談ダブルブッキングをゼロにする
 emoji: "📅"
 type: "idea"
 topics: ["営業効率化", "GoogleCalendar", "日程調整", "SaaS", "自動化"]
-published: true
+published: false
 published_at: 2026-02-25 08:30
 ---
 

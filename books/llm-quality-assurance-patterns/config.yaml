@@ -1,0 +1,17 @@
+title: "LLMアプリの品質保証パターン — 教育AIプロダクトの実装から学ぶ"
+summary: "AIが生成するコンテンツの品質をどう担保するか。教育AIアプリ「MochiQ」の開発経験を通じて得た、LLM出力のバリデーション設計、ハルシネーション対策、プロンプトエンジニアリング、コスト最適化のパターンを体系的に解説します。"
+topics: ["AI", "LLM", "品質保証", "EdTech", "プロンプトエンジニアリング"]
+published: true
+price: 2000
+toc_depth: 2
+chapters:
+  - introduction
+  - photo-to-quiz-pipeline
+  - quality-problem-taxonomy
+  - validation-architecture
+  - prompt-engineering
+  - hallucination-detection
+  - spaced-repetition-feedback
+  - cost-optimization
+  - testing-llm-output
+  - conclusion

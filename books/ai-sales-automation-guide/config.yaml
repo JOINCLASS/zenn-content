@@ -1,0 +1,17 @@
+title: "AI時代の営業自動化 完全ガイド — メール1通から始める商談管理"
+summary: "営業事務に月20時間以上費やしていませんか？本書では、AI技術を活用した営業プロセスの自動化を、ツール比較から具体的な導入ステップまで体系的に解説します。フリーランスから10名規模のチームまで、明日から実践できる営業自動化の教科書です。"
+topics: ["営業", "AI", "自動化", "SaaS", "フリーランス"]
+published: true
+price: 1500
+toc_depth: 2
+chapters:
+  - introduction
+  - sales-pipeline-basics
+  - freelance-optimization
+  - email-automation
+  - calendar-integration
+  - followup-emails
+  - tool-comparison
+  - ai-architecture
+  - implementation-guide
+  - conclusion

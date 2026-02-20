@@ -4,7 +4,6 @@ emoji: "🔒"
 type: "tech"
 topics: ["セキュリティ", "CASA", "SaaS", "Google", "認証"]
 published: false
-published_at: 2026-03-05 08:30
 ---
 
 ## はじめに：Google連携アプリに求められる「信頼の証明」

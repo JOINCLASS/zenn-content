@@ -4,7 +4,6 @@ emoji: "⏰"
 type: "idea"
 topics: ["業務自動化", "DX", "中小企業", "生産性", "AI"]
 published: false
-published_at: 2026-03-04 08:30
 ---
 
 ## はじめに: その作業、本当に人がやる必要がありますか?

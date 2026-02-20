@@ -4,7 +4,6 @@ emoji: "✅"
 type: "tech"
 topics: ["AI", "品質保証", "EdTech", "LLM", "テスト"]
 published: false
-published_at: 2026-03-06 08:30
 ---
 
 ## はじめに：AI生成コンテンツの「正しさ」は誰が保証するのか

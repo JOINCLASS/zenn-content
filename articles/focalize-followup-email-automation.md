@@ -4,7 +4,6 @@ emoji: "✉️"
 type: "idea"
 topics: ["営業", "メール自動化", "フォローアップ", "SaaS", "成約率"]
 published: false
-published_at: 2026-03-01 08:30
 ---
 
 ## はじめに：商談は「終わった後」が勝負

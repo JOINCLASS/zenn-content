@@ -3,7 +3,7 @@ summary: "「またスキルシートの更新依頼か...」エクセルベー�
 topics: ["スキル管理", "人事DX", "HRTech", "組織開発", "エンジニア組織"]
 published: true
 price: 1000
-toc_depth: 2
+toc_depth: 3
 chapters:
   - introduction
   - excel-traps

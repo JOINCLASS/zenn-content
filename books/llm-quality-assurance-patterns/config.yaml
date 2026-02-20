@@ -3,7 +3,7 @@ summary: "AIが生成するコンテンツの品質をどう担保するか。�
 topics: ["AI", "LLM", "品質保証", "EdTech", "プロンプトエンジニアリング"]
 published: true
 price: 2000
-toc_depth: 2
+toc_depth: 3
 chapters:
   - introduction
   - photo-to-quiz-pipeline

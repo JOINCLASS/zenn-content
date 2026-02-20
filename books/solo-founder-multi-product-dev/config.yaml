@@ -3,7 +3,7 @@ summary: "Next.js×Flutterで5つのSaaS/アプリを1人で開発・運用す�
 topics: ["個人開発", "Next.js", "Flutter", "技術戦略", "スタートアップ"]
 published: true
 price: 2000
-toc_depth: 2
+toc_depth: 3
 chapters:
   - introduction
   - product-portfolio
